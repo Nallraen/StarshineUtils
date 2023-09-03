@@ -20,7 +20,7 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -357,13 +357,13 @@
           ]
         },
         {
-          "id": "net.nallraen:starshine:1.16.5-1.0@jar",
+          "id": "net.nallraen:starshine:1.16.5-1.1.@jar",
           "name": "Starshine Base mod",
           "type": "ForgeMod",
           "artifact": {
             "size": 86905,
-            "url": "http://localhost/nebula/servers/Starshine-1.16.5/forgemods/required/starshine-1.16.5-1.0.jar",
-            "MD5": "39cae886537e026ebe62f3a2e8896719"
+            "url": "http://localhost/nebula/servers/Starshine-1.16.5/forgemods/required/starshine-1.16.5-1.1..jar",
+            "MD5": "fcc037cc91920e907b6cfc0642f2d4f5"
           }
         }
       ]
